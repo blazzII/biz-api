@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "id": 0,
+      "name": "What Not",
+      "phone": "999.999.9999",
+      "email": "contact@whatnot.com",
+      "web": "http://www.whatnot.com",
+      "level": 2
+    },
+    {
+      "id": 1,
+      "name": "Hello Green",
+      "phone": "999.999.9991",
+      "email": "contact@hellogreen.com",
+      "web": "http://www.hellogreen.com",
+      "level": 1
+    },
+    {
+      "id": 2,
+      "name": "Break Up",
+      "phone": "999.999.9992",
+      "email": "contact@breakup.com",
+      "web": "http://www.breakup.com",
+      "level": 0
+    }
+  ]
+}
